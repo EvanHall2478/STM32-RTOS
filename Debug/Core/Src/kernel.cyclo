@@ -1,0 +1,7 @@
+kernel.c:25:6:osKernelInitilize	1
+kernel.c:43:5:allocate_Stack	2
+kernel.c:65:6:osCreateThread	2
+kernel.c:109:6:SVC_Handler_Main	3
+kernel.c:150:8:osYield	1
+kernel.c:159:7:osKernelStart	1
+kernel.c:169:7:osSched	1
